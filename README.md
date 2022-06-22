@@ -1,4 +1,4 @@
-# Movie-Suggestion-using-Python
+# Movie Suggestion using Python
 
 Movie recommendation based on the common interest of users
 
